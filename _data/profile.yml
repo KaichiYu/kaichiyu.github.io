@@ -21,13 +21,11 @@ wechat_prompt: >-
 
 short_bio_text_justify: false
 short_bio: >-
+  # <p>
+  #   # A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  # </p>
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am a M.Sc. student in Computer Science and Technology at Beijing Institute of Technology. My research interests include <strong>LLM Reasoning</strong>, <strong>Graph Neural Networks</strong>, and <strong>Time Sequence Analysis</strong>. I am also interested in <strong>quantitative finance</strong> and <strong>algorithmic trading</strong>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.png
@@ -55,7 +53,7 @@ experience:
   logo: /assets/images/badges/unitloop.png
   position: Quantitative Researcher Intern
   date: Jun. 2025 - present
-- name: Huawei
+- name: HUAWEI
   logo: /assets/images/badges/huawei.svg
   position: Software Development Intern
   date: Jul. 2024 - Sep. 2024
