@@ -22,7 +22,7 @@ wechat_prompt: >-
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a M.Sc. student in Computer Science and Technology at Beijing Institute of Technology. My research interests include <strong>LLM Reasoning</strong>, <strong>Graph Neural Networks</strong>, and <strong>Time Sequence Analysis</strong>. I am also interested in <strong>quantitative finance</strong> and <strong>algorithmic trading</strong>.
+    I am a M.Sc. student in Computer Science at <a href="https://bit.edu.cn/" target="_blank">Beijing Institute of Technology</a> supervised by Prof. <a href="https://ronghuali.github.io/ronghuali.html" target="_blank">Rong-Hua Li</a>. My research interests include <strong>LLM Reasoning</strong>, <strong>Graph Neural Networks</strong>, and <strong>Time Series Forecasting</strong>. I am also interested in <strong>quantitative finance</strong> and <strong>algorithmic trading</strong>.
   </p>
 portrait_url: /assets/images/photos/portrait.png
 # portrait_caption: >-
@@ -55,6 +55,7 @@ experience:
   logo: /assets/images/badges/huawei.svg
   position: Software Development Intern
   date: Jul. 2024 - Sep. 2024
-
-
-
+- name: Sunwise
+  logo: /assets/images/badges/sunwise.png
+  position: Software Development Intern
+  date: Jul. 2023 - Sep. 2023
