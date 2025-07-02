@@ -37,14 +37,18 @@ portrait_caption: >-
 education:
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/bit.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
+  position: M.Sc. in Computer Science and Technology 
   date: Sep. 2025 - present
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/bit.png
-  position: B.S. in Computer Science
+  position: B.S. in Computer Science and Technology
   date: Sep. 2021 - Jul. 2025
+
+awards:
+- name: Huawei Scholarship
+  date: 2024
+- name: Excellent Graduate of Beijing Institute of Technology
+  date: 2025
 
 experience:
 - name: UnitLoop
@@ -56,9 +60,5 @@ experience:
   position: Software Development Intern
   date: Jul. 2024 - Sep. 2024
 
-awards:
-- name: Huawei Scholarship
-  date: 2024
-- name: Excellent Graduate of Beijing Institute of Technology
-  date: 2025
+
 
