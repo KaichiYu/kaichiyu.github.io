@@ -5,5 +5,5 @@ pages:
   url: /
 - name: Publications
   url: /publications
-- name: Blog
-  url: https://kaichiyu.github.io/blogs
+# - name: Blog
+#   url: https://kaichiyu.github.io/blogs
