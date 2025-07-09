@@ -8,4 +8,4 @@ homepage:
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span id="busuanzi_container_site_pv">Site Visits: <span id="busuanzi_value_site_pv"></span></span>
+    <span id="busuanzi_container_site_pv">Site Visits: <span id="busuanzi_value_site_uv"></span></span>
