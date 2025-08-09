@@ -8,7 +8,7 @@ positions:
 # - name: Position 2 without logo
 
 
-email: "ykckevin01@gmail.com"
+email: "kcyu.cs@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: -9tWrRIAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: kaichiyu
@@ -50,12 +50,12 @@ experience:
 - name: UnitLoop
   logo: /assets/images/badges/unitloop.png
   position: Quantitative Researcher Intern
-  date: Jun. 2025 - present
+  date: Mar. 2025 - present
 - name: HUAWEI
   logo: /assets/images/badges/huawei.svg
-  position: Software Development Intern
+  position: Software Engineering Intern
   date: Jul. 2024 - Sep. 2024
 - name: Sunwise
   logo: /assets/images/badges/sunwise.png
-  position: Software Development Intern
+  position: Software Engineering Intern
   date: Jul. 2023 - Sep. 2023
