@@ -19,10 +19,11 @@ wechat_prompt: >-
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
-  <p>
-    I am a M.Sc. student in Computer Science at <a href="https://bit.edu.cn/" target="_blank">Beijing Institute of Technology</a> supervised by Prof. <a href="https://ronghuali.github.io/ronghuali.html" target="_blank">Rong-Hua Li</a>. My research interests include <strong>LLM Reasoning</strong>, <strong>Graph Neural Networks</strong>, and <strong>Time Series Forecasting</strong>. I am also interested in <strong>quantitative finance</strong> and <strong>algorithmic trading</strong>.
+  <p> I am an M.Sc. student in Computer Science at <a href="https://bit.edu.cn/" target="_blank">Beijing Institute of Technology</a>, supervised by Prof. <a href="https://ronghuali.github.io/ronghuali.html" target="_blank">Rong-Hua Li</a>. My work centers on <strong>Agentic AI</strong> and <strong>Large Reasoning Models (LRMs)</strong>. My research focuses on enhancing LLMs' capabilities in tool usage, algorithmic problem-solving, and long-horizon planning through reinforcement learning. I am interested in enabling agents to decompose problems, select tools, execute actions, and iteratively refine solutions, bridging language reasoning with interactive learning. 
+  </p>
+  <p> In parallel, I keep a strong hobby-level interest in <strong>quantitative trading</strong>, where I design and explore deep learning-based trading algorithms. 
   </p>
 portrait_url: /assets/images/photos/portrait.png
 # portrait_caption: >-
@@ -35,6 +36,10 @@ education:
   logo: /assets/images/badges/bit.png
   position: M.Sc. in Computer Science and Technology 
   date: Sep. 2025 - present
+# - name: Hong Kong University of Science and Technology (Guangzhou)
+#   logo: /assets/images/badges/hkust.png
+#   position: Visiting Student
+#   date: Mar. 2026 - present
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/bit.png
   position: B.S. in Computer Science and Technology
@@ -47,10 +52,14 @@ awards:
   date: 2025
 
 experience:
+- name: Beike
+  logo: /assets/images/badges/beike.png
+  position: Research Scientist Intern - Agentic AI 
+  date: Nov. 2025 - present
 - name: UnitLoop
   logo: /assets/images/badges/unitloop.png
   position: Quantitative Researcher Intern
-  date: Mar. 2025 - present
+  date: Mar. 2025 - Sep. 2025
 - name: HUAWEI
   logo: /assets/images/badges/huawei.svg
   position: Software Engineering Intern
