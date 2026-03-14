@@ -36,10 +36,10 @@ education:
   logo: /assets/images/badges/bit.png
   position: M.Sc. in Computer Science and Technology 
   date: Sep. 2025 - present
-# - name: Hong Kong University of Science and Technology (Guangzhou)
-#   logo: /assets/images/badges/hkust.png
-#   position: Visiting Student
-#   date: Mar. 2026 - present
+- name: Hong Kong University of Science and Technology (Guangzhou)
+  logo: /assets/images/badges/hkust.png
+  position: Visiting Student & Research Assistant
+  date: Mar. 2026 - present
 - name: Beijing Institute of Technology
   logo: /assets/images/badges/bit.png
   position: B.S. in Computer Science and Technology
