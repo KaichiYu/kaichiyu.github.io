@@ -10,7 +10,7 @@ positions:
 
 email: "kcyu.cs@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: -9tWrRIAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: PvhvFi0AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: kaichiyu
 # twitter: your_twitter_id  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.png
@@ -54,17 +54,17 @@ awards:
 experience:
 - name: Beike
   logo: /assets/images/badges/beike.png
-  position: Research Scientist Intern - Agentic AI 
-  date: Nov. 2025 - present
+  position: Research Intern - Agentic RL
+  date: Nov. 2025 - Feb. 2026
 - name: UnitLoop
   logo: /assets/images/badges/unitloop.png
-  position: Quantitative Researcher Intern
+  position: Research Intern - Quantitative Trading
   date: Mar. 2025 - Sep. 2025
 - name: HUAWEI
   logo: /assets/images/badges/huawei.svg
   position: Software Engineering Intern
   date: Jul. 2024 - Sep. 2024
-- name: Sunwise
-  logo: /assets/images/badges/sunwise.png
-  position: Software Engineering Intern
-  date: Jul. 2023 - Sep. 2023
+# - name: Sunwise
+#   logo: /assets/images/badges/sunwise.png
+#   position: Software Engineering Intern
+#   date: Jul. 2023 - Sep. 2023
