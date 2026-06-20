@@ -3,7 +3,18 @@
 {
 	"name": "Jekyll",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye"
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+
+	// Forward the host's proxy (running on port 1082) into the container so it can reach the internet.
+	// host.docker.internal resolves to the host machine on Docker Desktop (macOS/Windows).
+	// 端口改成自己宿主机的代理端口
+	"containerEnv": {
+		"HTTP_PROXY": "http://host.docker.internal:1082",
+		"HTTPS_PROXY": "http://host.docker.internal:1082",
+		"http_proxy": "http://host.docker.internal:1082",
+		"https_proxy": "http://host.docker.internal:1082",
+		"NO_PROXY": "localhost,127.0.0.1,::1"
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

@@ -1,3 +1,6 @@
+{%- if include.authors_display -%}
+<span class="text-body"><strong>{{ include.authors_display }}</strong></span>
+{%- else -%}
 {%- assign authors = include.authors -%}
 {%- assign has_eq_contrib = false -%}
 {%- assign has_corresponding = false -%}
@@ -57,4 +60,5 @@
         <sup>#</sup> <i> corresponding author</i>
     {%- endif -%}
 )</mark>
+{%- endif -%}
 {%- endif -%}
